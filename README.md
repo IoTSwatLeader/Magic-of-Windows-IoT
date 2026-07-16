@@ -1,2 +1,2 @@
-# Windows_IoT
+# Windows IoT Repository
 Windows IoT samples
